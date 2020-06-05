@@ -1,9 +1,0 @@
-com/firstapp/conferencedemo/ConferenceDemoApplication.class
-com/firstapp/conferencedemo/repositories/SessionRepository.class
-com/firstapp/conferencedemo/config/PersistenceConfiguration.class
-com/firstapp/conferencedemo/repositories/SpeakerRepository.class
-com/firstapp/conferencedemo/models/Session.class
-com/firstapp/conferencedemo/controllers/SpeakersController.class
-com/firstapp/conferencedemo/models/Speaker.class
-com/firstapp/conferencedemo/controllers/SessionsController.class
-com/firstapp/conferencedemo/controllers/HomeController.class

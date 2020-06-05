@@ -1,9 +1,0 @@
-/Users/monicai/conference-demo/src/main/java/com/firstapp/conferencedemo/ConferenceDemoApplication.java
-/Users/monicai/conference-demo/src/main/java/com/firstapp/conferencedemo/controllers/HomeController.java
-/Users/monicai/conference-demo/src/main/java/com/firstapp/conferencedemo/repositories/SpeakerRepository.java
-/Users/monicai/conference-demo/src/main/java/com/firstapp/conferencedemo/repositories/SessionRepository.java
-/Users/monicai/conference-demo/src/main/java/com/firstapp/conferencedemo/controllers/SpeakersController.java
-/Users/monicai/conference-demo/src/main/java/com/firstapp/conferencedemo/models/Speaker.java
-/Users/monicai/conference-demo/src/main/java/com/firstapp/conferencedemo/models/Session.java
-/Users/monicai/conference-demo/src/main/java/com/firstapp/conferencedemo/controllers/SessionsController.java
-/Users/monicai/conference-demo/src/main/java/com/firstapp/conferencedemo/config/PersistenceConfiguration.java
